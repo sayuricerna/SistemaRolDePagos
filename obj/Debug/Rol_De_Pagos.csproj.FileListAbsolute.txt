@@ -11,3 +11,5 @@ C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación
 C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\Rol_De_Pagos\obj\Debug\Rol_De_Pagos.exe
 C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\Rol_De_Pagos\obj\Debug\Rol_De_Pagos.pdb
 C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\Rol_De_Pagos\bin\Debug\Rol_De_Pagos.pdb
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\Rol_De_Pagos\obj\Debug\Rol_De_Pagos.Presentacion.CUCargos.resources
+C:\Users\sahil\Desktop\SAYURI CERNA\UNIVERSIDAD\4.-cuarto_semestre\Programación Orientada a Objetos II\VSCC\TAREA 3\Rol_De_Pagos\obj\Debug\Rol_De_Pagos.Presentacion.CURolDePagos.resources

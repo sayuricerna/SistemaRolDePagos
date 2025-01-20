@@ -114,7 +114,7 @@
             this.pnl_content.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnl_content.Location = new System.Drawing.Point(447, 0);
             this.pnl_content.Name = "pnl_content";
-            this.pnl_content.Size = new System.Drawing.Size(704, 732);
+            this.pnl_content.Size = new System.Drawing.Size(797, 732);
             this.pnl_content.TabIndex = 1;
             this.pnl_content.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -186,7 +186,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(1151, 732);
+            this.ClientSize = new System.Drawing.Size(1244, 732);
             this.Controls.Add(this.pnl_content);
             this.Controls.Add(this.pnl_menu);
             this.Name = "Login";

@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config\conexion.cs" />
+    <Compile Include="Controladores\usuarios_controller.cs" />
+    <Compile Include="Modelos\cargo_model.cs" />
+    <Compile Include="Modelos\departamento_model.cs" />
+    <Compile Include="Modelos\empleado_model.cs" />
+    <Compile Include="Modelos\rol_model.cs" />
+    <Compile Include="Modelos\usuario_model.cs" />
     <Compile Include="Vistas\CUCargos.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     <EmbeddedResource Include="Vistas\CUEmpleados.resx">
       <DependentUpon>CUEmpleados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Vistas\CURolDePagos.resx">
+      <DependentUpon>CURolDePagos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Vistas\Empleados\frmEmpleados.resx">
       <DependentUpon>frmEmpleados.cs</DependentUpon>
     </EmbeddedResource>
@@ -130,9 +139,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controladores\" />
     <Folder Include="Helpers\" />
-    <Folder Include="Modelos\" />
     <Folder Include="Vistas\Cargos\" />
     <Folder Include="Vistas\Movimientos\" />
     <Folder Include="Vistas\RolDePagos\" />

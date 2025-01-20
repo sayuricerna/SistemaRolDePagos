@@ -57,7 +57,7 @@
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(221, 59);
             this.btnAgregar.TabIndex = 2;
-            this.btnAgregar.Text = "Agregar Personal";
+            this.btnAgregar.Text = "Agregar Cargo";
             this.btnAgregar.UseVisualStyleBackColor = true;
             // 
             // txtBuscar
