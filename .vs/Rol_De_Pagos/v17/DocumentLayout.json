@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\tarea 3\\rol_de_pagos\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|solutionrelative:config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\tarea 3\\rol_de_pagos\\vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|solutionrelative:vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\tarea 3\\rol_de_pagos\\vistas\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|solutionrelative:vistas\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\tarea 3\\rol_de_pagos\\vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|solutionrelative:vistas\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|c:\\users\\sahil\\desktop\\sayuri cerna\\universidad\\4.-cuarto_semestre\\programaci\u00F3n orientada a objetos ii\\vscc\\tarea 3\\rol_de_pagos\\vistas\\cucargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{626F22B9-5877-424E-A360-B0906809E9A5}|Rol_De_Pagos.csproj|solutionrelative:vistas\\cucargos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUEmpleados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\CUEmpleados.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUEmpleados.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\CUEmpleados.cs [Design]",
+              "RelativeToolTip": "Vistas\\CUEmpleados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:05:49.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\MenuPrincipal.cs",
+              "RelativeToolTip": "Vistas\\MenuPrincipal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:05:37.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Config\\conexion.cs",
+              "RelativeDocumentMoniker": "Config\\conexion.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Config\\conexion.cs",
+              "RelativeToolTip": "Config\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:07:33.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CUCargos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\CUCargos.cs",
+              "RelativeDocumentMoniker": "Vistas\\CUCargos.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\CUCargos.cs [Design]",
+              "RelativeToolTip": "Vistas\\CUCargos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:03:00.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Vistas\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\sahil\\Desktop\\SAYURI CERNA\\UNIVERSIDAD\\4.-cuarto_semestre\\Programaci\u00F3n Orientada a Objetos II\\VSCC\\TAREA 3\\Rol_De_Pagos\\Vistas\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "Vistas\\MenuPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:53:02.824Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
